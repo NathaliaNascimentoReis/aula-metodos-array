@@ -23,3 +23,6 @@ Separa o Array, conforme os índices
 
 ## Método Splice:
 Remove ou substitui elementos do Array, conforme os índices
+
+## Método Concat:
+Combina dois ou mais Arrays
