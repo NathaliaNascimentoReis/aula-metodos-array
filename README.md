@@ -26,3 +26,6 @@ Remove ou substitui elementos do Array, conforme os índices
 
 ## Método Concat:
 Combina dois ou mais Arrays
+
+## Método Map:
+Cria um novo Array apartir de transformações do Array original
