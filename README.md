@@ -1,19 +1,19 @@
 # Aulas Com Exemplos de Métodos Array
 
 ## Método Push: 
-Adiciona elementos ao final do array
+Adiciona elementos ao final do Array
 
 ## Método Pop:
-Remove o último elemento do array
+Remove o último elemento do Array
 
 ## Método Shift:
-Remove o primeiro elemento do array
+Remove o primeiro elemento do Array
 
 ## Método Unshift:
-Adiciona elementos no início do array
+Adiciona elementos no início do Array
 
 ## Método Includes:
-Verifica se há um elemento no array
+Verifica se há um elemento no Array
 
 ## Método Join:
-para cada elemento do Array, adiciona um separador
+Para cada elemento do Array, adiciona um separador
