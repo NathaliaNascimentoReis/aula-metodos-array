@@ -17,3 +17,6 @@ Verifica se há um elemento no Array
 
 ## Método Join:
 Para cada elemento do Array, adiciona um separador
+
+## Método Slice:
+Separa o Array, conforme os índices
